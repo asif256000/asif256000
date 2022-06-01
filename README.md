@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asif256000
 - 👀 I’m interested in Software Development and Machine Learning
-- 🌱 I’m currently learning Flask, FastAPI, Pandas, Numpy and Scikit
+- 🌱 I’m currently learning Rust, and sharpening my skills in Python Flask, FastAPI, Pandas, Numpy and Scikit
 - 💞️ I’m looking to collaborate on Web Application and Data Science projects
 - 📫 You can reach me at asif256000@gmail.com
 
